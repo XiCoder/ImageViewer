@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ResourceName">
+    <declare-styleable name="TabLayout">
+        <attr name="tabSelectColor" format="color"/>
+        <attr name="tabUnSelectColor" format="color"/>
+        <attr name="tabSelectSize" format="color"/>
+        <attr name="tabUnSelectSize" format="color"/>
+        <attr name="indicatorColor" format="color"/>
+        <attr name="indicatorWidth" format="dimension"/>
+        <attr name="indicatorHeight" format="dimension"/>
+        <attr name="indicatorRadius" format="dimension"/>
+        <attr name="indicatorMargin" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
